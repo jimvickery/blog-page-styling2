@@ -1,0 +1,46 @@
+.wrapper {
+    background-color: rgba(238, 226, 15, 0.16);
+}
+
+.header1 {
+    border-radius:  12px;
+    border: 6px solid lightgrey;
+    padding: 8px;
+    margin: 5px;
+    font-size: 14px;
+    font: "Times New Roman", Georgia, Serif;
+    background-color: lightgreen;
+
+}
+
+.header2 {
+    border-radius: 12px;
+    border: 6px solid lightgrey;
+    padding: 8px;
+    margin: 5px;
+    font-size: 17px;
+    font-family: cursive;
+    background-color: #F0FAD2;
+    
+}
+  .header3 {
+    border-radius: 12px;
+    border: 6px solid lightgrey;
+    padding: 8px;
+    margin: 5px;
+    font-size: 20px;   
+    font-family: san-seriff;
+    background-color: lightblue;
+        
+  }
+    
+.header4 {
+    border-radius:  12px;
+    border: 6px solid lightgrey;
+    padding: 8px;
+    margin: 5px;
+    font-size: 14px;       
+    font-family: fantasyg;
+    background-color: orange;
+            
+}       
