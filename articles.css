@@ -44,3 +44,32 @@
     background-color: orange;
             
 }       
+
+
+#slider {
+	position: relative;
+}
+
+.slide {
+	margin: 0 auto;
+	height: 349px;
+	width: 559px;
+	display: none;
+}
+
+
+.slide.active {
+	display: block;
+}
+
+#left-arrow {
+	position: absolute;
+	left: 30px;
+	font-size: 22px;
+}
+
+#right-arrow {
+	position: absolute;
+	right: 30px;
+	font-size: 22px;
+}
